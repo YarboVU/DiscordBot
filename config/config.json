@@ -1,0 +1,23 @@
+{
+    "bot_config" : [
+        {
+            "TOKEN" : "bot token",
+            "PREFIX" : "bot prefix"
+        }
+    ],
+
+    "server_config" : [
+        {
+            "GUILD" : guild_id,
+            "member_count_channel" : channel_id
+        }
+    ],
+
+    "ticket_config" : [
+        {
+            "ticket_channel" : ticket_channel_id,
+            "ticket_category" : "category name for ticket channels"
+        }
+    ]
+
+}
